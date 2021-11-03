@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\bin\Debug\net5.0\ConnectionLib.deps.json
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\bin\Debug\net5.0\ConnectionLib.dll
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\bin\Debug\net5.0\ref\ConnectionLib.dll
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\bin\Debug\net5.0\ConnectionLib.pdb
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\net5.0\ConnectionLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\net5.0\ConnectionLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\net5.0\ConnectionLib.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\net5.0\ConnectionLib.AssemblyInfo.cs
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\net5.0\ConnectionLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\net5.0\ConnectionLib.dll
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\net5.0\ref\ConnectionLib.dll
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\net5.0\ConnectionLib.pdb
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\bin\Debug\net5.0\ConnectionLib.deps.json
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\bin\Debug\net5.0\ConnectionLib.dll
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\bin\Debug\net5.0\ref\ConnectionLib.dll
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\bin\Debug\net5.0\ConnectionLib.pdb
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\obj\Debug\net5.0\ConnectionLib.csprojAssemblyReference.cache
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\obj\Debug\net5.0\ConnectionLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\obj\Debug\net5.0\ConnectionLib.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\obj\Debug\net5.0\ConnectionLib.AssemblyInfo.cs
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\obj\Debug\net5.0\ConnectionLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\obj\Debug\net5.0\ConnectionLib.dll
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\obj\Debug\net5.0\ref\ConnectionLib.dll
+C:\Users\User\Downloads\s3698728_a1-master (1)\s3698728_a1-master\ConnectionLib\obj\Debug\net5.0\ConnectionLib.pdb

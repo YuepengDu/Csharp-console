@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\bin\Debug\netcoreapp3.1\ConnectionLib.deps.json
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\bin\Debug\netcoreapp3.1\ConnectionLib.dll
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\bin\Debug\netcoreapp3.1\ConnectionLib.pdb
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\netcoreapp3.1\ConnectionLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\netcoreapp3.1\ConnectionLib.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\netcoreapp3.1\ConnectionLib.AssemblyInfo.cs
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\netcoreapp3.1\ConnectionLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\netcoreapp3.1\ConnectionLib.dll
+C:\Users\User\source\repos\s3698728_a1\ConnectionLib\obj\Debug\netcoreapp3.1\ConnectionLib.pdb
